@@ -33,3 +33,7 @@ The `port` and `baud` rate will probably auto-detect correctly, but I had so man
 ### Control Board
 
 This requires `nodemcu-uploader.py`. The `port` and `baud` can be left default; they are auto-detected correctly.
+
+### Bash Scripts
+
+A few bash scripts are included to make common tasks less verbose.
