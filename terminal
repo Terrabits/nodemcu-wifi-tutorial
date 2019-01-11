@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+nodemcu-uploader --port /dev/tty.SLAB_USBtoUART --baud 115200 terminal
